@@ -1,3 +1,3 @@
 # Login_PHP
 ## Username : rami
-### Passwors : 123456789
+### Password : 123456789
